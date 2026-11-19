@@ -26,5 +26,5 @@ def test_r2_rectangle_area_returns_correct_area():
 
 
 # bug report 3
-def test_r3_double_function_returns_twice_the_number():
+def test_r3_double_returns_twice_the_number():
     assert double(5) == 10
